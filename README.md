@@ -1,4 +1,4 @@
 # Image Classification
-Image classifier model using tensorflow and keras with 91% accuracy
+Image classifier model using tensorflow and keras with 91% accuracy done on google colab.
 
 
